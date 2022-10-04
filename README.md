@@ -1,0 +1,2 @@
+# winget_shell
+一个用winget进行自动安装的powershell程序
