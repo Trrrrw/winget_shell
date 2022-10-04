@@ -1,0 +1,154 @@
+{
+    "setting": {
+        "path": "D:\\Program Files (x86)\\",
+        "Downloads": "D:\\%USERNAME%\\Downloads\\Temp"
+    },
+    "winget": [
+        {
+            "id": "Tencent.TIM",
+            "name": "Tencent\\Tim"
+        },
+        {
+            "id": "Tencent.WeChat",
+            "name": "Tencent\\WeChat"
+        },
+        {
+            "id": "qBittorrent.qBittorrent",
+            "name": "qBittorrent"
+        },
+        {
+            "id": "Bandisoft.Bandizip",
+            "name": "Bandizip"
+        },
+        {
+            "id": "Valve.Steam",
+            "name": "Steam"
+        },
+        {
+            "id": "OpenJS.NodeJS",
+            "name": "Node.js"
+        },
+        {
+            "id": "Git.Git",
+            "name": "Git"
+        },
+        {
+            "id": "Microsoft.VisualStudioCode",
+            "name": "VSCode"
+        },
+        {
+            "id": "TimKosse.FileZilla.Client",
+            "name": "FileZilla"
+        },
+        {
+            "id": "Xiaomi.XiaomiCloud",
+            "name": "小米云服务"
+        },
+        {
+            "id": "Tencent.TencentMeeting",
+            "name": "Tencent\\WeMeet"
+        },
+        {
+            "id": "Notepad++.Notepad++",
+            "name": "Notepad++"
+        },
+        {
+            "id": "Nutstore.Nutstore",
+            "name": "Nutstore"
+        },
+        {
+            "id": "OBSProject.OBSStudio",
+            "name": "OBS Studio"
+        },
+        {
+            "id": "Daum.PotPlayer",
+            "name": "PotPlayer"
+        },
+        {
+            "id": "v2raya.win",
+            "name": "v2rayA"
+        },
+        {
+            "id": "Obsidian.Obsidian",
+            "name": "Obsidian"
+        },
+        {
+            "id": "Nevcairiel.LAVFilters",
+            "name": "LAV Filters"
+        },
+        {
+            "id": "Python.Python.3.10",
+            "name": "Python"
+        },
+        {
+            "id": "Telegram.TelegramDesktop",
+            "name": "Telegram"
+        },
+        {
+            "id": "EpicGames.EpicGamesLauncher",
+            "name": "Epic"
+        },
+        {
+            "id": "Fndroid.ClashForWindows",
+            "name": "Clash"
+        },
+        {
+            "id": "voidtools.Everything",
+            "name": "Everything"
+        },
+        {
+            "id": "CrystalDewWorld.CrystalDiskInfo.ShizukuEdition",
+            "name": "CrystalDiskInfo"
+        }
+    ],
+    "msstore": [
+        {
+            "id": "9PFN5K6QXT46",
+            "name": "OneQuick"
+        },
+        {
+            "id": "XP89DCGQ3K6VLD",
+            "name": "PowerToys"
+        },
+        {
+            "id": "9MZ1SNWT0N5D",
+            "name": "PowerShell"
+        },
+        {
+            "id": "9P1WXPKB68KX",
+            "name": "Snipaste"
+        },
+        {
+            "id": "9MTCFHS560NG",
+            "name": "Watt Toolkit"
+        },
+        {
+            "id": "9P2JFQ43FPPG",
+            "name": "APK Installers"
+        }
+    ],
+    "optional": [
+        {
+            "id": "JetBrains.PyCharm.Community",
+            "name": "JetBrains\\PyCharm Community Edition"
+        },
+        {
+            "id": "JetBrains.IntelliJIDEA.Community",
+            "name": "JetBrains\\IntelliJ IDEA Community Edition"
+        },
+        {
+            "id": "Alibaba.aDrive",
+            "name": "aDrive"
+        }
+    ],
+    "game": [
+        {
+            "url":"https://ys-api.mihoyo.com/event/download_porter/link/ys_cn/official/pc_default",
+            "name":"miHoYo\\Genshin Impact"
+        },
+        {
+            "url":"https://api-takumi.mihoyo.com/event/download_porter/link/bh3_cn/bh3/pc_official",
+            "name":"miHoYo\\Honkai Impact 3"
+        }
+    ]
+}
